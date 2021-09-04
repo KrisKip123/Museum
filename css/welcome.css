@@ -1,0 +1,46 @@
+
+.wrapper_welcome {
+    margin: 0 auto;
+    width: 1920px;
+    height: 750px;
+    padding: 0;
+    background-color: #030303;
+    display: flex;
+}
+
+
+.welcome_posit_img {
+    width: 1215px;
+    height: 750px;
+}
+
+.welcome {
+    display: flex;
+    width: 705px;
+    height: 750px;
+}
+
+.welcome_position {
+    width: 598px;
+    height: 390px;
+    position: relative;
+    left: 240px;
+    top: 114px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.welcome_buttom {
+    width: 360px;
+    height: 75px;
+    border: none;
+    background-color: #710707;
+    border-radius: 10px;
+    border-color: #710707;
+    cursor: pointer;
+}
+
+.welcome_buttom:hover {
+    background-color: #9D8665 ;
+}
